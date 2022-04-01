@@ -29,8 +29,15 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Live URL
+### Tech stack used
+React + Typescript
+React Material ui
+Axios
+Hosted in Firebase
 
+
+### Live URL
+Hosted in Firebase
 https://restaurant-react-app-glint.web.app/
 
 
