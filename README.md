@@ -29,3 +29,13 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### Live URL
+
+https://restaurant-react-app-glint.web.app/
+
+
+### Feature list 
+* Display all restaurants
+* Search restaurant by name
+* Filter  restaurants by open day 
+* Filter  restaurants by open time 
